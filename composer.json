@@ -1,6 +1,6 @@
 {
     "name": "kaidesu/kata",
-    "description": "Kata skeleton",
+    "description": "Kata skeleton to quickly jump into any kata with PHPUnit as your testing base.",
     "license": "MIT",
     "authors": [
         {
